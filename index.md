@@ -1,4 +1,4 @@
-# HE JIAXIN
+## About me
 
 I am studying data science and data visualization in CISC7204. I am interested in using clear visualizations to make comparisons understandable without overstating what the data can prove.
 
