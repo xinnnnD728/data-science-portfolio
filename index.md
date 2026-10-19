@@ -15,7 +15,7 @@ Python · Pandas · Matplotlib · Plotly · data cleaning · chart design · rep
 
 ![Scatter plot of GDP per person and life expectancy in 2007](figures/income_life_expectancy_2007.png)
 
-The 2007 comparison shows a positive association, with substantial differences between countries at similar income levels. The horizontal scale is logarithmic so low- and high-income countries can be read on the same chart.
+The 2007 comparison shows a positive association, with substantial differences between countries at similar income levels. The horizontal scale is logarithmic so low- and high-income countries can be read on the same chart. Colour represents continent, while bubble size reflects population.
 
 ![Line chart of life expectancy in China, India and the United States](figures/life_expectancy_three_countries.png)
 
